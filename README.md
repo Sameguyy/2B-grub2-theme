@@ -11,7 +11,7 @@
 # git clone https://github.com/Sameguyy/2B-grub2-theme.git
 ```
 
-3. #### Copy the theme folder to the GRUB directory
+2. #### Copy the theme folder to the GRUB directory
 
 ```
 # sudo mkdir -p /boot/grub/themes
@@ -21,7 +21,7 @@
 # sudo cp -r 2B-grub2-theme /boot/grub/themes/
 ```
 
-4. #### Open GRUB config
+3. #### Open GRUB config
 ```
 # sudo nano /etc/default/grub
 ```
@@ -34,7 +34,7 @@
    
    ``GRUB_THEME="/boot/grub/themes/2B-grub2-theme/theme.txt"`` #path to /theme.txt
 
-6. #### Update GRUB
+4. #### Update GRUB
 Arch / Manjaro / EndeavourOS
 ```
 # grub-mkconfig -o /boot/grub/grub.cfg
