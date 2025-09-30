@@ -51,3 +51,5 @@ Arch / Manjaro / EndeavourOS
 ```
 # update-grub
 ```
+__________________________________________
+Forked from https://github.com/vinceliuice/Wuthering-grub2-themes — licensed under GPL-3.0
