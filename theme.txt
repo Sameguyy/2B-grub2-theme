@@ -40,7 +40,7 @@ terminal-border: "0"
 # }
 #
 + image {
-  top = 84%-80
+  top = 73%-80
   left = 49%-240
   width = 480
   height = 42
