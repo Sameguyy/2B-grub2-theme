@@ -1,4 +1,5 @@
-<img width="1919" height="1080" alt="Снимок экрана от 2025-09-30 01-16-28" src="https://github.com/user-attachments/assets/54732b13-1c7e-46f3-8115-810e5f1e399b" />
+<img width="1920" height="1080" alt="Снимок экрана от 2025-09-30 17-33-01" src="https://github.com/user-attachments/assets/5ba94369-57ff-4e7b-a819-3ef33984aa02" />
+
 
 
 # Installation
